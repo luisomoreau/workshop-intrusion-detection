@@ -1,4 +1,3 @@
-from turtle import pencolor
 import cv2
 import os
 import time
@@ -11,7 +10,7 @@ app = Flask(__name__, static_folder='templates/assets')
 runner = None
 countPeople = 0
 inferenceSpeed = 0
-videoCaptureDeviceId = int(2) # use 0 for web camera
+videoCaptureDeviceId = int(0) # use 0 for web camera
     
 def now():
     return round(time.time() * 1000)
