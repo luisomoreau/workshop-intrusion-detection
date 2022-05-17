@@ -132,7 +132,14 @@ For this workshop, we built a small Python application that will run the inferen
 
 To run the application you will need to install [Python3](https://www.python.org/downloads/) its package manager `pip3`.
 
-Clone [this repository](https://github.com/luisomoreau/workshop-intrusion-detection) locally and install the dependencies:
+Clone [this repository](https://github.com/luisomoreau/workshop-intrusion-detection) locally:
+
+```
+git clone https://github.com/luisomoreau/workshop-intrusion-detection
+cd workshop-intrusion-detection/
+```
+
+Install the dependencies:
 
 ```
 pip3 install -r requirements.txt
