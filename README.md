@@ -10,7 +10,9 @@
 
 ### Collecting your own images
 
-To collect your own device, you can use your mobile phone by going to the **Devices** tab and click on **+ Connect a new device**. Select **Use your mobile phone**
+To collect your own device, you can use your mobile phone by going to the **Devices** tab and click on **+ Connect a new device**. Select **Use your mobile phone** and flash the QR Code. You can also select **Use your computer**, it will open a web page so you can directly capture new images using your computer's camera. The images will directly arrive in your **Data acquisition**'s project tab. 
+
+See [use your mobile phone](https://docs.edgeimpulse.com/docs/development-platforms/using-your-mobile-phone) documentation page.
 
 ### Bounding Boxes format
 
